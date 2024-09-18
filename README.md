@@ -29,7 +29,11 @@ You can train **Corki-n** by modifying the `take_steps` value to `n` in the file
 
 Adaptive training is divided into two stages:
 
+<div align="center">
 <img src='./figs/two_stage.jpg' width=500 height=200>
+</div>
+
+
 
 - In the first stage, we use the episodes in the dataset to get proper adaptive steps through our waypoints extraction algorithm, in order to make the trajectories predicted by the model easier to converge, so we train 5 epochs first.
 
@@ -45,7 +49,9 @@ Adaptive training is divided into two stages:
 
 ## Evaluating the model on the CALVIN benchmark
 
+<div align="center">
 <img src='./figs/result.png' width=400 height=200>
+</div>
 
 ```
 python eval_ckpts.py
