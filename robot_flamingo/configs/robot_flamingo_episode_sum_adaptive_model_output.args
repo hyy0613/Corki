@@ -7,7 +7,7 @@
 --precision fp32
 --num_epochs 10
 --gradient_accumulation_steps 1
---batch_size_calvin 6
+--batch_size_calvin 5
 --calvin_dataset /mnt/dolphinfs/hdd_pool/docker/user/hadoop-vacv/yanfeng/data/robotics/task_D_D/
 --cross_attn_every_n_layers 4
 --dataset_resampled
@@ -23,4 +23,6 @@
 --use_episode
 --episode_loss point_sum
 --mask_ratio 0.2
---adaptive try
+--threshold 0.3
+--use_waypoint
+--adaptive feng

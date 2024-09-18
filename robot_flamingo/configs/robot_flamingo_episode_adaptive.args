@@ -5,7 +5,7 @@
 --rgb_pad 10
 --gripper_pad 4
 --precision fp32
---num_epochs 10
+--num_epochs 5
 --gradient_accumulation_steps 1
 --batch_size_calvin 6
 --calvin_dataset /mnt/dolphinfs/hdd_pool/docker/user/hadoop-vacv/yanfeng/data/robotics/task_D_D/

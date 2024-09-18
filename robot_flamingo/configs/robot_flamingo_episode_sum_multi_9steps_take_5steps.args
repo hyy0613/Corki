@@ -19,5 +19,9 @@
 --save_every_iter 10000
 --from_scratch
 --window_size 12
---waypoint
---use_waypoint
+--multi_step_action 9
+--mask_ratio 0.2
+--action_num 5
+--use_episode
+--episode_loss point_sum
+--take_steps 5
