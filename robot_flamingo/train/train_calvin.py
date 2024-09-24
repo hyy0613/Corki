@@ -1,8 +1,3 @@
-import sys
-
-sys.path.append('/mnt/dolphinfs/hdd_pool/docker/user/hadoop-vacv/yanfeng/project/robotic/calvin/calvin_models')
-sys.path.append('/mnt/dolphinfs/hdd_pool/docker/user/hadoop-vacv/huangyiyang02/new/RoboFlamingo-origin/open_flamingo')
-sys.path.append('/mnt/dolphinfs/hdd_pool/docker/user/hadoop-vacv/huangyiyang02/new/RoboFlamingo-origin')
 import argparse
 import copy
 import glob
