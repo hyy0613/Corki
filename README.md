@@ -111,13 +111,3 @@ License: [MIT](https://github.com/mlfoundations/open_flamingo/blob/main/LICENSE)
 Original: [https://github.com/RoboFlamingo/RoboFlamingo](https://github.com/RoboFlamingo/RoboFlamingo)
 License: [MIT](https://github.com/RoboFlamingo/RoboFlamingo/blob/main/LICENSE)
 
-## Cite our work:
-
-```
-@article{huang2024corki,
-  title={Corki: Enabling Real-time Embodied AI Robots via Algorithm-Architecture Co-Design},
-  author={Huang, Yiyang and Hao, Yuhui and Yu, Bo and Yan, Feng and Yang, Yuxin and Min, Feng and Han, Yinhe and Ma, Lin and Liu, Shaoshan and Liu, Qiang and others},
-  journal={arXiv preprint arXiv:2407.04292},
-  year={2024}
-}
-```
