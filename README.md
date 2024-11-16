@@ -1,11 +1,13 @@
 
 
-<h1 align="center">Corki: Enabling Real-time Embodied AI Robots via Algorithm-Architecture Co-Design</h1>
+<h1 align="center">Software-Hardware Co-Design For Embodied AI
+Robots</h1>
 
 ![Python 3.8](https://img.shields.io/badge/Python-3.8-blue)
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2407.04292)
 
-This is also the official code repo for the paper [Corki: Enabling Real-time Embodied AI Robots via Algorithm-Architecture Co-Design](https://arxiv.org/pdf/2407.04292)
+This is also the official code repo for the paper [Software-Hardware Co-Design For Embodied AI
+Robots](https://arxiv.org/pdf/2407.04292)
 
 If you have any questions about the paper and code, please contact us.
 
