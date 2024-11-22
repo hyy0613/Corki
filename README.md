@@ -51,10 +51,6 @@ Adaptive training is divided into two stages:
 
 ## Evaluating the model on the CALVIN benchmark
 
-<div align="center">
-<img src='./figs/result.png' width=400 height=200>
-</div>
-
 ```
 python eval_ckpts.py
 ```
