@@ -52,7 +52,7 @@ Adaptive training is divided into two stages:
 ## Evaluating the model on the CALVIN benchmark
 
 ```
-python eval_ckpts.py
+bash eval_ckpts.sh
 ```
 
 - Make sure you use the same configuration as your training before testing, If you change the configuration in training, you need to change `robot_flamingo/pt_eval_ckpts.bash` during testing.
