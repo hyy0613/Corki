@@ -1,6 +1,6 @@
 #!/bin/bash
-eval "$('/mnt/dolphinfs/hdd_pool/docker/user/hadoop-vacv/yanfeng/software/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
-conda activate /mnt/dolphinfs/hdd_pool/docker/user/hadoop-vacv/yanfeng/software/anaconda3/envs/RoboFlamingo_ubuntu/
+eval "$('/software/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
+conda activate /software/anaconda3/envs/RoboFlamingo_ubuntu/
 
 # export http_proxy=http://10.70.10.73:8412   
 # export https_proxy=http://10.70.10.73:8412  
