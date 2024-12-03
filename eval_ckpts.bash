@@ -29,7 +29,7 @@ sudo apt-get install -y --reinstall libgl1-mesa-dri
 Xvfb :99 -screen 0 1024x768x16 &
 
 export DISPLAY=:99
-export PYTHONPATH=/mnt/dolphinfs/hdd_pool/docker/user/hadoop-vacv/huangyiyang02/new/RoboFlamingo-origin
+export PYTHONPATH=/RoboFlamingo-origin
 export EVALUTION_ROOT=$(pwd)
 
 python eval_ckpts.py
